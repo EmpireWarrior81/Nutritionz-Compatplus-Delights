@@ -1,0 +1,135 @@
+{
+  "vegandelight:applesauce": {
+    "carbohydrates": 5,
+    "protein": 0,
+    "fat": 0,
+    "vitamins": 6,
+    "minerals": 2
+  },
+  "vegandelight:cooked_smoked_tofish": {
+    "carbohydrates": 1,
+    "protein": 5,
+    "fat": 3,
+    "vitamins": 1,
+    "minerals": 3
+  },
+  "vegandelight:cooked_smoked_tofu": {
+    "carbohydrates": 1,
+    "protein": 5,
+    "fat": 3,
+    "vitamins": 1,
+    "minerals": 3
+  },
+  "vegandelight:cooked_smoked_tofu_slices": {
+    "carbohydrates": 1,
+    "protein": 5,
+    "fat": 3,
+    "vitamins": 1,
+    "minerals": 3
+  },
+  "vegandelight:cooked_tofish": {
+    "carbohydrates": 1,
+    "protein": 5,
+    "fat": 3,
+    "vitamins": 1,
+    "minerals": 3
+  },
+  "vegandelight:cooked_tofu": {
+    "carbohydrates": 1,
+    "protein": 5,
+    "fat": 3,
+    "vitamins": 1,
+    "minerals": 3
+  },
+  "vegandelight:cooked_tofu_slices": {
+    "carbohydrates": 1,
+    "protein": 5,
+    "fat": 3,
+    "vitamins": 1,
+    "minerals": 3
+  },
+  "vegandelight:minced_tofu": {
+    "carbohydrates": 1,
+    "protein": 5,
+    "fat": 3,
+    "vitamins": 1,
+    "minerals": 3
+  },
+  "vegandelight:silken_tofu": {
+    "carbohydrates": 1,
+    "protein": 5,
+    "fat": 3,
+    "vitamins": 1,
+    "minerals": 3
+  },
+  "vegandelight:smoked_tofish": {
+    "carbohydrates": 1,
+    "protein": 5,
+    "fat": 3,
+    "vitamins": 1,
+    "minerals": 3
+  },
+  "vegandelight:smoked_tofish_roll": {
+    "carbohydrates": 6,
+    "protein": 1,
+    "fat": 3,
+    "vitamins": 2,
+    "minerals": 1
+  },
+  "vegandelight:smoked_tofu": {
+    "carbohydrates": 1,
+    "protein": 5,
+    "fat": 3,
+    "vitamins": 1,
+    "minerals": 3
+  },
+  "vegandelight:smoked_tofu_slices": {
+    "carbohydrates": 1,
+    "protein": 5,
+    "fat": 3,
+    "vitamins": 1,
+    "minerals": 3
+  },
+  "vegandelight:soybean": {
+    "carbohydrates": 1,
+    "protein": 5,
+    "fat": 3,
+    "vitamins": 1,
+    "minerals": 3
+  },
+  "vegandelight:tofish": {
+    "carbohydrates": 1,
+    "protein": 5,
+    "fat": 3,
+    "vitamins": 1,
+    "minerals": 3
+  },
+  "vegandelight:tofish_roll": {
+    "carbohydrates": 6,
+    "protein": 1,
+    "fat": 3,
+    "vitamins": 2,
+    "minerals": 1
+  },
+  "vegandelight:tofu": {
+    "carbohydrates": 1,
+    "protein": 5,
+    "fat": 3,
+    "vitamins": 1,
+    "minerals": 3
+  },
+  "vegandelight:tofu_patty": {
+    "carbohydrates": 1,
+    "protein": 5,
+    "fat": 3,
+    "vitamins": 1,
+    "minerals": 3
+  },
+  "vegandelight:tofu_slices": {
+    "carbohydrates": 1,
+    "protein": 5,
+    "fat": 3,
+    "vitamins": 1,
+    "minerals": 3
+  }
+}

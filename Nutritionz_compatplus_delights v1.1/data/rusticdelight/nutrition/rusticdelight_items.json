@@ -1,0 +1,275 @@
+{
+  "rusticdelight:baked_potato_slices": {
+    "carbohydrates": 5,
+    "protein": 1,
+    "fat": 0,
+    "vitamins": 3,
+    "minerals": 3
+  },
+  "rusticdelight:batter": {
+    "carbohydrates": 3,
+    "protein": 0,
+    "fat": 0,
+    "vitamins": 5,
+    "minerals": 2
+  },
+  "rusticdelight:bell_pepper_green": {
+    "carbohydrates": 3,
+    "protein": 1,
+    "fat": 0,
+    "vitamins": 6,
+    "minerals": 3
+  },
+  "rusticdelight:bell_pepper_pasta": {
+    "carbohydrates": 3,
+    "protein": 1,
+    "fat": 0,
+    "vitamins": 6,
+    "minerals": 3
+  },
+  "rusticdelight:bell_pepper_red": {
+    "carbohydrates": 3,
+    "protein": 1,
+    "fat": 0,
+    "vitamins": 6,
+    "minerals": 3
+  },
+  "rusticdelight:bell_pepper_soup": {
+    "carbohydrates": 4,
+    "protein": 3,
+    "fat": 2,
+    "vitamins": 4,
+    "minerals": 4
+  },
+  "rusticdelight:bell_pepper_yellow": {
+    "carbohydrates": 3,
+    "protein": 1,
+    "fat": 0,
+    "vitamins": 6,
+    "minerals": 3
+  },
+  "rusticdelight:calamari": {
+    "carbohydrates": 3,
+    "protein": 0,
+    "fat": 0,
+    "vitamins": 5,
+    "minerals": 2
+  },
+  "rusticdelight:calamari_roll": {
+    "carbohydrates": 6,
+    "protein": 1,
+    "fat": 3,
+    "vitamins": 2,
+    "minerals": 1
+  },
+  "rusticdelight:calamari_slice": {
+    "carbohydrates": 3,
+    "protein": 0,
+    "fat": 0,
+    "vitamins": 5,
+    "minerals": 2
+  },
+  "rusticdelight:cherry_blossom_cheesecake": {
+    "carbohydrates": 6,
+    "protein": 1,
+    "fat": 3,
+    "vitamins": 2,
+    "minerals": 1
+  },
+  "rusticdelight:cherry_blossom_cheesecake_slice": {
+    "carbohydrates": 6,
+    "protein": 1,
+    "fat": 3,
+    "vitamins": 2,
+    "minerals": 1
+  },
+  "rusticdelight:cherry_blossom_cookie": {
+    "carbohydrates": 6,
+    "protein": 1,
+    "fat": 3,
+    "vitamins": 2,
+    "minerals": 1
+  },
+  "rusticdelight:cherry_blossom_roll": {
+    "carbohydrates": 6,
+    "protein": 1,
+    "fat": 3,
+    "vitamins": 2,
+    "minerals": 1
+  },
+  "rusticdelight:chocolate_coffee": {
+    "carbohydrates": 5,
+    "protein": 0,
+    "fat": 0,
+    "vitamins": 4,
+    "minerals": 1
+  },
+  "rusticdelight:chocolate_pancakes": {
+    "carbohydrates": 6,
+    "protein": 1,
+    "fat": 3,
+    "vitamins": 2,
+    "minerals": 1
+  },
+  "rusticdelight:coffee": {
+    "carbohydrates": 5,
+    "protein": 0,
+    "fat": 0,
+    "vitamins": 4,
+    "minerals": 1
+  },
+  "rusticdelight:coffee_braised_beef": {
+    "carbohydrates": 5,
+    "protein": 0,
+    "fat": 0,
+    "vitamins": 4,
+    "minerals": 1
+  },
+  "rusticdelight:cooked_calamari": {
+    "carbohydrates": 3,
+    "protein": 0,
+    "fat": 0,
+    "vitamins": 5,
+    "minerals": 2
+  },
+  "rusticdelight:cooked_calamari_slice": {
+    "carbohydrates": 3,
+    "protein": 0,
+    "fat": 0,
+    "vitamins": 5,
+    "minerals": 2
+  },
+  "rusticdelight:cooking_oil": {
+    "carbohydrates": 3,
+    "protein": 0,
+    "fat": 0,
+    "vitamins": 5,
+    "minerals": 2
+  },
+  "rusticdelight:dark_coffee": {
+    "carbohydrates": 5,
+    "protein": 0,
+    "fat": 0,
+    "vitamins": 4,
+    "minerals": 1
+  },
+  "rusticdelight:fried_calamari": {
+    "carbohydrates": 3,
+    "protein": 0,
+    "fat": 0,
+    "vitamins": 5,
+    "minerals": 2
+  },
+  "rusticdelight:fried_chicken": {
+    "carbohydrates": 3,
+    "protein": 0,
+    "fat": 0,
+    "vitamins": 5,
+    "minerals": 2
+  },
+  "rusticdelight:fried_mushrooms": {
+    "carbohydrates": 2,
+    "protein": 2,
+    "fat": 1,
+    "vitamins": 3,
+    "minerals": 2
+  },
+  "rusticdelight:fruit_beignet": {
+    "carbohydrates": 6,
+    "protein": 1,
+    "fat": 3,
+    "vitamins": 2,
+    "minerals": 1
+  },
+  "rusticdelight:golden_coffee_beans": {
+    "carbohydrates": 5,
+    "protein": 0,
+    "fat": 0,
+    "vitamins": 4,
+    "minerals": 1
+  },
+  "rusticdelight:honey_coffee": {
+    "carbohydrates": 5,
+    "protein": 0,
+    "fat": 0,
+    "vitamins": 4,
+    "minerals": 1
+  },
+  "rusticdelight:milk_coffee": {
+    "carbohydrates": 5,
+    "protein": 0,
+    "fat": 0,
+    "vitamins": 4,
+    "minerals": 1
+  },
+  "rusticdelight:potato_salad": {
+    "carbohydrates": 2,
+    "protein": 1,
+    "fat": 0,
+    "vitamins": 6,
+    "minerals": 4
+  },
+  "rusticdelight:potato_slices": {
+    "carbohydrates": 5,
+    "protein": 1,
+    "fat": 0,
+    "vitamins": 3,
+    "minerals": 3
+  },
+  "rusticdelight:roasted_bell_pepper_green": {
+    "carbohydrates": 3,
+    "protein": 1,
+    "fat": 0,
+    "vitamins": 6,
+    "minerals": 3
+  },
+  "rusticdelight:roasted_bell_pepper_red": {
+    "carbohydrates": 3,
+    "protein": 1,
+    "fat": 0,
+    "vitamins": 6,
+    "minerals": 3
+  },
+  "rusticdelight:roasted_bell_pepper_yellow": {
+    "carbohydrates": 3,
+    "protein": 1,
+    "fat": 0,
+    "vitamins": 6,
+    "minerals": 3
+  },
+  "rusticdelight:roasted_coffee_beans": {
+    "carbohydrates": 5,
+    "protein": 0,
+    "fat": 0,
+    "vitamins": 4,
+    "minerals": 1
+  },
+  "rusticdelight:spring_rolls": {
+    "carbohydrates": 6,
+    "protein": 1,
+    "fat": 3,
+    "vitamins": 2,
+    "minerals": 1
+  },
+  "rusticdelight:stuffed_bell_pepper_green": {
+    "carbohydrates": 3,
+    "protein": 1,
+    "fat": 0,
+    "vitamins": 6,
+    "minerals": 3
+  },
+  "rusticdelight:stuffed_bell_pepper_red": {
+    "carbohydrates": 3,
+    "protein": 1,
+    "fat": 0,
+    "vitamins": 6,
+    "minerals": 3
+  },
+  "rusticdelight:stuffed_bell_pepper_yellow": {
+    "carbohydrates": 3,
+    "protein": 1,
+    "fat": 0,
+    "vitamins": 6,
+    "minerals": 3
+  }
+}

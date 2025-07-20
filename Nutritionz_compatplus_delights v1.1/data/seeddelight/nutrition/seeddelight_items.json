@@ -1,0 +1,212 @@
+{
+  "seeddelight:acorn_bread": {
+    "carbohydrates": 5,
+    "protein": 2,
+    "fat": 1,
+    "vitamins": 1,
+    "minerals": 1
+  },
+  "seeddelight:acorn_kernel": {
+    "carbohydrates": 2,
+    "protein": 4,
+    "fat": 6,
+    "vitamins": 2,
+    "minerals": 4
+  },
+  "seeddelight:acorn_tofu": {
+    "carbohydrates": 1,
+    "protein": 5,
+    "fat": 3,
+    "vitamins": 1,
+    "minerals": 3
+  },
+  "seeddelight:cherry": {
+    "carbohydrates": 5,
+    "protein": 0,
+    "fat": 0,
+    "vitamins": 6,
+    "minerals": 2
+  },
+  "seeddelight:cherry_ice_cream": {
+    "carbohydrates": 4,
+    "protein": 2,
+    "fat": 5,
+    "vitamins": 3,
+    "minerals": 2
+  },
+  "seeddelight:cherry_jam_sandwich": {
+    "carbohydrates": 5,
+    "protein": 2,
+    "fat": 1,
+    "vitamins": 1,
+    "minerals": 1
+  },
+  "seeddelight:cherry_pork": {
+    "carbohydrates": 5,
+    "protein": 0,
+    "fat": 0,
+    "vitamins": 6,
+    "minerals": 2
+  },
+  "seeddelight:cherry_wine": {
+    "carbohydrates": 5,
+    "protein": 0,
+    "fat": 0,
+    "vitamins": 4,
+    "minerals": 1
+  },
+  "seeddelight:dried_pumpkin_seed": {
+    "carbohydrates": 2,
+    "protein": 4,
+    "fat": 6,
+    "vitamins": 2,
+    "minerals": 4
+  },
+  "seeddelight:dried_watermelon_seed": {
+    "carbohydrates": 2,
+    "protein": 4,
+    "fat": 6,
+    "vitamins": 2,
+    "minerals": 4
+  },
+  "seeddelight:fried_sunflower_seed": {
+    "carbohydrates": 2,
+    "protein": 4,
+    "fat": 6,
+    "vitamins": 2,
+    "minerals": 4
+  },
+  "seeddelight:milk_cherry_mouss": {
+    "carbohydrates": 4,
+    "protein": 2,
+    "fat": 5,
+    "vitamins": 3,
+    "minerals": 2
+  },
+  "seeddelight:pine_needle_wine": {
+    "carbohydrates": 5,
+    "protein": 0,
+    "fat": 0,
+    "vitamins": 4,
+    "minerals": 1
+  },
+  "seeddelight:pine_nut_kernel": {
+    "carbohydrates": 2,
+    "protein": 4,
+    "fat": 6,
+    "vitamins": 2,
+    "minerals": 4
+  },
+  "seeddelight:pinenut_cake": {
+    "carbohydrates": 6,
+    "protein": 1,
+    "fat": 3,
+    "vitamins": 2,
+    "minerals": 1
+  },
+  "seeddelight:pinenut_gruel": {
+    "carbohydrates": 2,
+    "protein": 4,
+    "fat": 6,
+    "vitamins": 2,
+    "minerals": 4
+  },
+  "seeddelight:pinenut_with_meatballs": {
+    "carbohydrates": 0,
+    "protein": 7,
+    "fat": 6,
+    "vitamins": 1,
+    "minerals": 2
+  },
+  "seeddelight:rose_cookie": {
+    "carbohydrates": 6,
+    "protein": 1,
+    "fat": 3,
+    "vitamins": 2,
+    "minerals": 1
+  },
+  "seeddelight:rosehip_cake": {
+    "carbohydrates": 6,
+    "protein": 1,
+    "fat": 3,
+    "vitamins": 2,
+    "minerals": 1
+  },
+  "seeddelight:rosehip_jam_sandwich": {
+    "carbohydrates": 5,
+    "protein": 2,
+    "fat": 1,
+    "vitamins": 1,
+    "minerals": 1
+  },
+  "seeddelight:rosehip_pie_slice": {
+    "carbohydrates": 6,
+    "protein": 1,
+    "fat": 3,
+    "vitamins": 2,
+    "minerals": 1
+  },
+  "seeddelight:rosehip_tea": {
+    "carbohydrates": 5,
+    "protein": 0,
+    "fat": 0,
+    "vitamins": 4,
+    "minerals": 1
+  },
+  "seeddelight:seed_tart": {
+    "carbohydrates": 2,
+    "protein": 4,
+    "fat": 6,
+    "vitamins": 2,
+    "minerals": 4
+  },
+  "seeddelight:seed_rosehip_pie": {
+    "carbohydrates": 6,
+    "protein": 1,
+    "fat": 3,
+    "vitamins": 2,
+    "minerals": 1
+  },
+  "seeddelight:stir_fried_cabbage_with_acorn": {
+    "carbohydrates": 2,
+    "protein": 1,
+    "fat": 0,
+    "vitamins": 6,
+    "minerals": 4
+  },
+  "seeddelight:sunflower_seed": {
+    "carbohydrates": 2,
+    "protein": 4,
+    "fat": 6,
+    "vitamins": 2,
+    "minerals": 4
+  },
+  "seeddelight:sunflower_seed_crisp": {
+    "carbohydrates": 2,
+    "protein": 4,
+    "fat": 6,
+    "vitamins": 2,
+    "minerals": 4
+  },
+  "seeddelight:sunflower_seed_toast": {
+    "carbohydrates": 5,
+    "protein": 2,
+    "fat": 1,
+    "vitamins": 1,
+    "minerals": 1
+  },
+  "seeddelight:raw_acorn_noodle": {
+    "carbohydrates": 6,
+    "protein": 2,
+    "fat": 1,
+    "vitamins": 2,
+    "minerals": 2
+  },
+  "seeddelight:roasted_beef_with_seed": {
+    "carbohydrates": 2,
+    "protein": 1,
+    "fat": 0,
+    "vitamins": 6,
+    "minerals": 4
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "farmers_delight:pumpkin_pie_slice": {
+    "carbohydrates": 6,
+    "protein": 1,
+    "fat": 3,
+    "vitamins": 2,
+    "minerals": 1
+  },
+  "farmers_delight:hot_cocoa": {
+    "carbohydrates": 3,
+    "protein": 0,
+    "fat": 0,
+    "vitamins": 5,
+    "minerals": 2
+  },
+  "farmers_delight:melon_juice": {
+    "carbohydrates": 5,
+    "protein": 0,
+    "fat": 0,
+    "vitamins": 4,
+    "minerals": 1
+  },
+  "farmers_delight:apple_cider": {
+    "carbohydrates": 5,
+    "protein": 0,
+    "fat": 0,
+    "vitamins": 4,
+    "minerals": 1
+  }
+}

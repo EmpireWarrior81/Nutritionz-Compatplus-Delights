@@ -1,0 +1,51 @@
+{
+  "pineapple_delight:pineapple": {
+    "carbohydrates": 5,
+    "protein": 0,
+    "fat": 0,
+    "vitamins": 6,
+    "minerals": 2
+  },
+  "pineapple_delight:pineapple_fried_rice": {
+    "carbohydrates": 6,
+    "protein": 1,
+    "fat": 0,
+    "vitamins": 1,
+    "minerals": 1
+  },
+  "pineapple_delight:pineapple_ice_cream": {
+    "carbohydrates": 4,
+    "protein": 2,
+    "fat": 5,
+    "vitamins": 3,
+    "minerals": 2
+  },
+  "pineapple_delight:pineapple_juice": {
+    "carbohydrates": 5,
+    "protein": 0,
+    "fat": 0,
+    "vitamins": 4,
+    "minerals": 1
+  },
+  "pineapple_delight:pineapple_milk_shake": {
+    "carbohydrates": 4,
+    "protein": 2,
+    "fat": 5,
+    "vitamins": 3,
+    "minerals": 2
+  },
+  "pineapple_delight:pineapple_pie_side": {
+    "carbohydrates": 6,
+    "protein": 1,
+    "fat": 3,
+    "vitamins": 2,
+    "minerals": 1
+  },
+  "pineapple_delight:pineapple_side": {
+    "carbohydrates": 5,
+    "protein": 0,
+    "fat": 0,
+    "vitamins": 6,
+    "minerals": 2
+  }
+}
